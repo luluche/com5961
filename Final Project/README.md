@@ -1,6 +1,6 @@
 Dear Bernard,<br>
 
-<br> Here are links related to my final project
+<br> Here are links related to my final project:
 <ul>
 	<li><a href="http://dev-lulu-com5961.pantheonsite.io/lulu/Lulucheng_website.html" target="_blank"> My personal website</a></li>
 	<li><a href="http://dev-lulu-com5961.pantheonsite.io/lulu/items/Final%20Web%20Design%20Report%20by%20Cheng%20Lulu.pdf" target="_blank"> My Final project report</a></li> 
@@ -19,4 +19,4 @@ Drupal account <br> User name :Bernard; Password: 123456
 <br> Thanks! 
 <br> Best Regards!
 
-<br> Student Cheng Lulu
+<br> Student<br> Cheng Lulu
