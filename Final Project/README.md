@@ -6,9 +6,9 @@ Dear Bernard,<br>
 	<li><a href="http://dev-lulu-com5961.pantheonsite.io/lulu/items/Final%20Web%20Design%20Report%20by%20Cheng%20Lulu.pdf" target="_blank"> My Final project report</a></li> 
 	<li><a href="http://dev-lulu-com5961.pantheonsite.io/" target="_blank"> Drupal log in for Bernard</a></li>
 </ul>
-<br> Drupal account <br> User name :Bernard; Password: 123456
+Drupal account <br> User name :Bernard; Password: 123456
 
-<br> I alsp grant the rights of  Google Analytics, Google Optimize and Google Tag Manager by sending the invitation E-mail.
+<br> I also grant the rights of  Google Analytics, Google Optimize and Google Tag Manager by sending the invitation E-mail.
 <br> User email address: bernard@cuhk.edu.hk 
 <ul>
 	<li><a href="https://analytics.google.com/analytics/web/?authuser=1#embed/report-home/a110577457w164986340p165629239/" target="_blank"> Google Analytics</a></li>
